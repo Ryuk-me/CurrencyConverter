@@ -1,5 +1,5 @@
 # CurrencyConverter
-This Simple Python Script Converts One Currency To Another 
+This is a Simple Python Script which Converts One Currency To Another 
 
 # Install requirements
 $ pip install -r requirements.txt
